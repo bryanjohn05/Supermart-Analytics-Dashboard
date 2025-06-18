@@ -1,0 +1,20 @@
+{
+  "lr_mse": 211049.05055563533,
+  "lr_r2": 0.3691076805868265,
+  "xgb_mse": 211547.22942169447,
+  "xgb_r2": 0.3676184415817261,
+  "best_params": {
+    "colsample_bytree": 1,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "n_estimators": 100,
+    "subsample": 1
+  },
+  "feature_names": [
+    "Category",
+    "City",
+    "Region",
+    "Profit",
+    "Discount"
+  ]
+}

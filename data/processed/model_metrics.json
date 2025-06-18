@@ -1,0 +1,28 @@
+{
+  "lr_mse": 60374.68739365674,
+  "lr_r2": 0.8195209764585585,
+  "xgb_mse": 707.0402890936424,
+  "xgb_r2": 0.9978864192962646,
+  "best_params": {
+    "learning_rate": 0.1,
+    "max_depth": 5,
+    "n_estimators": 200
+  },
+  "feature_names": [
+    "Category",
+    "Sub Category",
+    "City",
+    "Region",
+    "State",
+    "Discount",
+    "Profit",
+    "month_no",
+    "Month",
+    "year",
+    "dayofweek",
+    "is_weekend",
+    "high_discount",
+    "profit_margin",
+    "Region_Category"
+  ]
+}
